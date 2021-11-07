@@ -34,5 +34,16 @@
     * ประเภทของชุดข้อมูล : ข้อมูลเชิงพื้นที่
     * ลักษณะสำคัญของข้อมูล
 ### Googlecolab 
- * know your data ประกอบไปด้วย 3 ส่วยย่อย
-   * [Basic Python](https://github.com/Jaomiew/DWDM21/blob/main/Data101(Chapter2).ipynb)
+ * ประกอบไปด้วย 3 ส่วน ได้แก่
+   * [Basic Python](https://github.com/Benza1611/DWDM21/blob/main/Data101(Chapter2).ipynb)
+    * Casting
+    * Data Structure
+     * วิธีการสร้าง list ว่าง
+     * การชึ้ต่าใน list (indexing)
+     * list slicing
+     * list + list
+    * Loop
+     * Nested loop
+    * Condition (if statement)
+    * Function
+    * [Mount G Drive](https://github.com/Jaomiew/DWDM21/blob/main/Data102_(Chapter2).ipynb)
