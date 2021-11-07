@@ -35,9 +35,9 @@
     * ลักษณะสำคัญของข้อมูล
 ### Googlecolab 
  * ประกอบไปด้วย 3 ส่วน ได้แก่
-   * [Basic Python](https://github.com/Benza1611/DWDM21/blob/main/Data101(Chapter2).ipynb)
-    * Casting
-    * Data Structure
+    * [Basic Python](https://github.com/Benza1611/DWDM21/blob/main/Data101(Chapter2).ipynb)
+     * Casting
+     * Data Structure
      * วิธีการสร้าง list ว่าง
      * การชึ้ต่าใน list (indexing)
      * list slicing
