@@ -36,23 +36,38 @@
 ### Googlecolab 
  * ประกอบไปด้วย 3 ส่วน ได้แก่
     * [Basic Python](https://github.com/Benza1611/DWDM21/blob/main/Data101(Chapter2).ipynb)
-     * Casting
-     * Data Structure
-     * วิธีการสร้าง list ว่าง
-     * การชึ้ต่าใน list (indexing)
-     * list slicing
-     * list + list
-    * Loop
-     * Nested loop
-    * Condition (if statement)
-    * Function
-    * [Mount G Drive](https://github.com/Benza1611/DWDM21/blob/main/Data102(Chapter2).ipynb)
-     * .head() .tail()
-     * Boxplot
-     * Tine Series Plot
+      * Casting
+      * Data Structure
+        * วิธีการสร้าง list ว่าง
+        * การชึ้ต่าใน list (indexing)
+        * list slicing
+        * list + list
+      * Loop
+        * Nested loop
+      * Condition (if statement)
+      * Function
+      * [Mount G Drive](https://github.com/Benza1611/DWDM21/blob/main/Data102(Chapter2).ipynb)
+        * .head() .tail()
+        * Boxplot
+        * Tine Series Plot
    * [Data Visualization](https://github.com/Benza1611/DWDM21/blob/main/Data_Visualization.ipynb)
-    * Scatter plot
-    * Plot
-    * Bar chart
-    * Histogram
-   * [Distance Numpy]()
+      * Scatter plot
+      * Plot
+      * Bar chart
+      * Histogram
+   * [Distance Numpy](https://github.com/Benza1611/DWDM21/blob/main/Distance_Numpy.ipynb)
+     * Numpy Array
+       * สร้าง numpy araay (matrix)
+       * Matrix transpose
+       * สร้าง matrix เริ่มต้น (zeros,one)
+       * สร้าง matrix random
+       * matrix properties
+     * Indexing & Slicing
+     * Useful functions
+     * วน loop เอง
+       * Summation
+     * Distance Matrix
+       * Euclidean Distance (L2-norm)
+     * Distance function
+       * Euclidean Distance (L1-norm)
+     * Distance of Binary Value
