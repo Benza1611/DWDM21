@@ -46,4 +46,13 @@
      * Nested loop
     * Condition (if statement)
     * Function
-    * [Mount G Drive](https://github.com/Jaomiew/DWDM21/blob/main/Data102_(Chapter2).ipynb)
+    * [Mount G Drive](https://github.com/Benza1611/DWDM21/blob/main/Data102(Chapter2).ipynb)
+     * .head() .tail()
+     * Boxplot
+     * Tine Series Plot
+   * [Data Visualization](https://github.com/Benza1611/DWDM21/blob/main/Data_Visualization.ipynb)
+    * Scatter plot
+    * Plot
+    * Bar chart
+    * Histogram
+   * [Distance Numpy]()
