@@ -166,3 +166,35 @@
          * Define
          * Train
        * Evaluation
+
+## บทที่ 7 
+#### Lecture
+  * [สรุป Classifier](https://github.com/Benza1611/DWDM21/blob/main/Chapter_8_Classifier.ipynb)
+#### Googlecolab
+  * [Clustering](https://github.com/Benza1611/DWDM21/blob/main/Chap8_Clustering.ipynb)
+     * K-means
+         * Generate Data
+         * Explore Data
+         * Clustering
+           * import
+           * Define
+           * Fit-Predict
+         * Exanple Application (Color Quantization)
+           * นับจำนวนสี
+           * จัดกลุ่มให้เหลือ 16 สี
+           * แปลงข้อมูลให้อยู่ในรูป row-column
+           * ใช้ centroid เป็นตัวแทนของสี
+           * แทนสีคืนลงไป
+      * Hierachical Clustering
+      * Clustering Evaluation
+ * [Cluster Analysis:Basic Concepts and Methods](https://github.com/Benza1611/DWDM21/blob/main/Chapter_10.pdf)
+     * K-Means คืออะไร?
+     * Clustering แบบลำดับชั้น
+     * Cluster ที่ดี มี 4 ข้อ อะไรบ้าง?
+
+## MiniExam
+   * [Mid Term](https://github.com/Benza1611/DWDM21/blob/main/MiniExam.ipynb)
+
+## Project
+   * [Project ล่าสุด](https://github.com/Benza1611/DWDM21/blob/main/Project_%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94.ipynb)
+
