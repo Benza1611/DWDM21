@@ -100,3 +100,55 @@
     * Group by (pandas)
     * [PD] save ตารางเอาไปใช้ที่อื่น
     * [PD]การสร้างตาราง
+
+ ## บทที่ 4 
+  * [ Data Warehousing and On-line Anaalytical Processing](https://github.com/Benza1611/DWDM21/blob/main/Chapter_4.pdf) 
+     * Data Warehouse : Basic concepts
+     * Data Warehouse Mining : Data Cube and OLAP
+     * Data Warehouse Disng and Usage
+     * Data Warehouse Implementation
+
+## บทที่ 5 
+#### Lecture
+  * [สรุป Chapter 6](https://github.com/Benza1611/DWDM21/blob/main/Chapter_6.pdf)
+#### Googlecolab
+  * [Association Rules](https://github.com/Jaomiew/DWDM21/blob/main/Chapeter6_Association_Rules.ipynb)
+    * Besic Concepts
+       * K-itemsets
+       * ลบ records ที่ถูก cancel ออกไป
+       * Plot graph of Itemsets
+       * Frequence Itemsets to Association Rule
+    * Efficient Pattern Mining Methods
+       * Apriori
+       * Support
+
+## บทที่ 6 
+ * ประกอบไปด้วย 3 ส่วยย่อย คือ
+   * [Desition Tree](https://github.com/Benza1611/DWDM21/blob/main/Chapter7_Classification_(Decision_Tree).ipynb)
+      * Load Data
+      * Train Model
+         * import(เรียกใช้ algorithm ที่เราต้องการ)
+         * define (กำหนด paramiters ให้กับ model)
+         * train (ฝึกสอนตัวแบบ)
+      * plot tree
+      * Evaluation
+        * Random
+      * Advanced Tree
+        * import
+        * Define
+        * Train
+      * TEST
+      * Start here
+        * Import
+        * Define
+        * Train
+        * Evaluate
+   * [KNN](https://github.com/Jaomiew/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+       * Split Data
+       * Train Model
+       * Retrain & Evaluate
+       * Neural Network
+   * [Evaluation](https://github.com/Jaomiew/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+       * Split Data
+       * สร้าง Model ทำนาย
+       * Evaluation
