@@ -159,6 +159,10 @@
          * ANN 2
          * ANN 3
    * [Evaluation](https://github.com/Jaomiew/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
+       * Load data
        * Split Data
        * สร้าง Model ทำนาย
+         * import
+         * Define
+         * Train
        * Evaluation
