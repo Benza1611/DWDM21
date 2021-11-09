@@ -143,11 +143,21 @@
         * Define
         * Train
         * Evaluate
-   * [KNN](https://github.com/Jaomiew/DWDM21/blob/main/Chap7_Classification_(KNN_NN).ipynb)
+   * [KNN](https://github.com/Benza1611/DWDM21/blob/main/Chap_7_Classification_(KNN_NN).ipynb)
+       * Load data
        * Split Data
        * Train Model
+         * import
+         * knn1
+         * knn2
+         * knn3
        * Retrain & Evaluate
        * Neural Network
+         * import
+         * Define
+         * Train - Test
+         * ANN 2
+         * ANN 3
    * [Evaluation](https://github.com/Jaomiew/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb)
        * Split Data
        * สร้าง Model ทำนาย
